@@ -20,8 +20,11 @@ Target total: 200
 
 Found expressions:
 98+76-5+43-2-10=200
+
 97+86-5+42-3-10=200
+
 ... (other expressions)
+
 98-7+65+43+2-1-0=200
 
 ## How It Works
