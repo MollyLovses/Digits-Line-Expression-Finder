@@ -1,5 +1,5 @@
 # Finding Expression with decimal numbers line  #
-# Module: main.py                               #
+# Module: expression_finder.py                  #
 # Version: 1.0                                  #
 # Author: Sergey Patokin                        #
 # Last Update: 02.13.2024                       #
