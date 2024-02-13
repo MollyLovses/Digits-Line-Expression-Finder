@@ -9,7 +9,7 @@ This Python script finds an expression that combines digits from 9 to 0 using ad
 3. Run the script using Python:
 
     ```bash
-    python main.py
+    python expression_finder.py
     ```
     
 4. The script will output an expression that results in the desired total (if found), otherwise, it will indicate that no solution was found.
