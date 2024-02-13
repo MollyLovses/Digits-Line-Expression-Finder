@@ -8,8 +8,9 @@ This Python script finds an expression that combines digits from 9 to 0 using ad
 2. Clone this repository or download the expression_finder.py file.
 3. Run the script using Python:
 
-   
+    ```bash
     python main.py
+    ```
     
 4. The script will output an expression that results in the desired total (if found), otherwise, it will indicate that no solution was found.
 
